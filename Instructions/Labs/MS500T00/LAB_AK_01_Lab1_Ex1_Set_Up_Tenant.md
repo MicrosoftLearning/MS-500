@@ -223,11 +223,11 @@ In a later lab, you will create Alert Policies using the Security and Compliance
 
 1. You should still be logged into your domain controller 1 VM as the **LON-DC1\Admin** account, and you should be logged into Microsoft 365 as **MOD Administrator**.
 
-2. In your browser, enter the following URL in the address bar: `https://protection.office.com`.
+2. In the **Microsoft 365 admin center**, scroll down through left navigation pane and under **Admin centers,** select **Compliance**. This will open the Compliance admin center.
 
-3. In the **Office 365 Security &amp; Compliance center**, in the left navigation pane, select **Search**, and then under it, select **Audit log search**.
+3. In the **Microsoft 365 compliance center**, in the left navigation pane, select **Audit** (under the **Solutions** section), and the **Search** tab should be shown.
 
-4. In the **Audit log search** window, at the top right of the page, select **Turn on auditing,** and then confirm the **Your organization settings need to be updated. Do you want to continue?** question by selecting **Yes**.
+4. In the Audit **Search** tab, near the top of the tab, select **Start recording user and admin activity**, and then select "Yes" in the prompts following to enable audit logging.
 
 5. Leave the Client 1 VM and the Security and Compliance Center open.
 
